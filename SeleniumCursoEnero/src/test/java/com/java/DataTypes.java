@@ -3,7 +3,6 @@ package com.java;
 public class DataTypes {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		// Datos primitivos
 
 		byte var1 = 1; // Numerico entero
