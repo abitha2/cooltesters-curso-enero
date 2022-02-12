@@ -20,14 +20,14 @@ public class Ejercicio_3 {
 		    char mujer = 'M';
 		    
 		//	e) nombre         
-		    string nombre = "Abi Arreola";
+		    String nombre = "Abi Arreola";
 		    
 		//	f) númeroDeHijos 
 		    int num_hijos;
 		    num_hijos = 0;
 		    
 		//	g) iva (valores: % a aplicar)  
-		    char symbol = '\U0025';
+		    char symbol = '\u0025';
 		    double iva = 16.56;
 		    
 		//	h) tallaCamisa (valores numéricos) 
@@ -44,7 +44,7 @@ public class Ejercicio_3 {
 		    boolean alumnoRepetidor2 = true;
 		    
 		//	l) mensaje 
-		    string mensaje = "Hola a todos"
+		    String mensaje = "Hola a todos";
 		    		
 		//	m) letra 
 		    char letra = 'a';
@@ -58,10 +58,10 @@ public class Ejercicio_3 {
 		    
 		//	p) días 
 		    int dias = 7;
-		    string dia = viernes;
+		    String dia = "viernes";
 		    
 		//	q) matriculaCoche    
-		    string placa = "430XVY";
+		    String placa = "430XVY";
 		    
 		//	r) contador 
 		    int contador = 5;
@@ -79,8 +79,8 @@ public class Ejercicio_3 {
 		//	t) tallaCamiseta (valores: S, L, XL...)
 			char chica = 'S';
 			char mediana = 'M';
-			char grande = 'L'
-			char extragrande = 'XL';
+			char grande = 'L';
+			String extra = "XL";
 			
 	}
 
